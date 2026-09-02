@@ -1,0 +1,12 @@
+cff-version: 1.2.0 
+message: "If you use this software or its results, please make sure to cite this repository." 
+title: "..." 
+type: software 
+authors: 
+- family-names: "Hijazi" 
+  given-names: "Mohamad" 
+  ORCID: 0009-0007-5929-7450
+repository-code: "https://github.com/MohammadHijazi22/global-lead-paint-policy-health" 
+license: MIT 
+version: "1.0.0" 
+date-released: "2026-09-02"

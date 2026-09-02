@@ -1,0 +1,3 @@
+outcome,analysis,available,successful_draws,notes
+daly_rate,IHME uncertainty Monte Carlo,False,0,Skipped: columns daly_rate_lower and daly_rate_upper were not found.
+death_rate,IHME uncertainty Monte Carlo,False,0,Skipped: columns death_rate_lower and death_rate_upper were not found.

@@ -1,0 +1,3 @@
+outcome,outcome_label,analysis,n,coefficient_log_scale,percent_difference,percent_ci_low,percent_ci_high,p_value,notes
+daly_rate,DALY Rate,Alternative six-continent region adjustment,160,-0.05593224686201137,-5.43967986957642,-11.68340438651625,1.2454576748089918,0.10853313229798427,Replaces World Bank analytical regions with dashboard continent categories.
+death_rate,Death Rate,Alternative six-continent region adjustment,160,-0.06911460213241705,-6.67802750208184,-14.79456922504948,2.2116838292253638,0.13655275789941443,Replaces World Bank analytical regions with dashboard continent categories.

@@ -1,0 +1,13 @@
+outcome,model,n,regulated_n,not_regulated_n
+daly_rate,M0_unadjusted,163,92,71
+daly_rate,M1_development,160,90,70
+daly_rate,M2_primary,160,90,70
+daly_rate,M3_health_system,163,92,71
+daly_rate,M4_environment,160,90,70
+daly_rate,M5_industrial,155,89,66
+death_rate,M0_unadjusted,163,92,71
+death_rate,M1_development,160,90,70
+death_rate,M2_primary,160,90,70
+death_rate,M3_health_system,163,92,71
+death_rate,M4_environment,160,90,70
+death_rate,M5_industrial,155,89,66

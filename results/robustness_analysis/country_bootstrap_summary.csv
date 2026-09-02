@@ -1,0 +1,3 @@
+outcome,analysis,n,successful_replicates,failed_replicates,coefficient_log_scale,percent_difference,percent_ci_low,percent_ci_high,p_value,notes
+daly_rate,"Country bootstrap, primary model",160,2000,0,-0.03511084335855121,-3.4501608758191082,-9.609957963283556,3.4113228910114035,,Percentile interval from country-level bootstrap replicates.
+death_rate,"Country bootstrap, primary model",160,2000,0,-0.04133358889735111,-4.049100499360603,-12.069393974491927,4.163596422060212,,Percentile interval from country-level bootstrap replicates.

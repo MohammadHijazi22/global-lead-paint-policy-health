@@ -1,0 +1,3 @@
+outcome,outcome_label,analysis,n,coefficient_log_scale,percent_difference,percent_ci_low,percent_ci_high,p_value,notes
+daly_rate,DALY Rate,Gamma GLM with log link,160,-0.035703154649518565,-3.507331502598121,-9.647822107269533,3.050477486039904,0.28721251711128537,Models positive raw rates with multiplicative mean structure.
+death_rate,Death Rate,Gamma GLM with log link,160,-0.03570969099506577,-3.5079622099609242,-10.951986900617472,4.558350409043421,0.38333501810133286,Models positive raw rates with multiplicative mean structure.

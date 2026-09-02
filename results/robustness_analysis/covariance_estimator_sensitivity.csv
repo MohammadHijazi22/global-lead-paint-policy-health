@@ -1,0 +1,11 @@
+outcome,outcome_label,analysis,n,coefficient_log_scale,percent_difference,percent_ci_low,percent_ci_high,p_value,notes
+daly_rate,DALY Rate,"Primary model, nonrobust SE",160,-0.034003598560146564,-3.34319736219304,-9.833898451553457,3.614743631165984,0.33530853200362337,Coefficient is unchanged; standard errors and confidence intervals vary.
+daly_rate,DALY Rate,"Primary model, HC0 SE",160,-0.034003598560146564,-3.34319736219304,-9.42801187662814,3.150407645221498,0.3053727349272256,Coefficient is unchanged; standard errors and confidence intervals vary.
+daly_rate,DALY Rate,"Primary model, HC1 SE",160,-0.034003598560146564,-3.34319736219304,-9.6412740945085,3.393860443932839,0.32260504424253733,Coefficient is unchanged; standard errors and confidence intervals vary.
+daly_rate,DALY Rate,"Primary model, HC2 SE",160,-0.034003598560146564,-3.34319736219304,-9.724420963065993,3.4890896943646332,0.32917031313452394,Coefficient is unchanged; standard errors and confidence intervals vary.
+daly_rate,DALY Rate,"Primary model, HC3 SE",160,-0.034003598560146564,-3.34319736219304,-10.046125511198822,3.8592006098310705,0.3537621930102044,Coefficient is unchanged; standard errors and confidence intervals vary.
+death_rate,Death Rate,"Primary model, nonrobust SE",160,-0.03760724116777375,-3.690887083483607,-11.616630581425236,4.945594310154955,0.3882575606982528,Coefficient is unchanged; standard errors and confidence intervals vary.
+death_rate,Death Rate,"Primary model, HC0 SE",160,-0.03760724116777375,-3.690887083483607,-11.223897706045982,4.481329897246411,0.36546079113262375,Coefficient is unchanged; standard errors and confidence intervals vary.
+death_rate,Death Rate,"Primary model, HC1 SE",160,-0.03760724116777375,-3.690887083483607,-11.485653313681699,4.790303244705685,0.3824750080582936,Coefficient is unchanged; standard errors and confidence intervals vary.
+death_rate,Death Rate,"Primary model, HC2 SE",160,-0.03760724116777375,-3.690887083483607,-11.637460924987886,4.970333897855261,0.3920328329048517,Coefficient is unchanged; standard errors and confidence intervals vary.
+death_rate,Death Rate,"Primary model, HC3 SE",160,-0.03760724116777375,-3.690887083483607,-12.094265018379103,5.515814556417609,0.4194681429009325,Coefficient is unchanged; standard errors and confidence intervals vary.

@@ -1,0 +1,21 @@
+Outcome,Term,"Estimate (95% CI), log scale",P value
+DALY Rate,C(wb_region)[T.Europe & Central Asia],0.044 (-0.071 to 0.159),0.456
+DALY Rate,C(wb_region)[T.Latin America & Caribbean],0.050 (-0.054 to 0.154),0.347
+DALY Rate,"C(wb_region)[T.Middle East, North Africa, Afghanistan & Pakistan]",-0.064 (-0.173 to 0.045),0.253
+DALY Rate,C(wb_region)[T.North America],0.174 (-0.155 to 0.502),0.300
+DALY Rate,C(wb_region)[T.South Asia],-0.106 (-0.279 to 0.067),0.230
+DALY Rate,C(wb_region)[T.Sub-Saharan Africa],0.311 (0.181 to 0.442),<0.001
+DALY Rate,reg_binary,-0.034 (-0.106 to 0.038),0.354
+DALY Rate,z_log_gdp_per_capita_ppp,-0.193 (-0.258 to -0.129),<0.001
+DALY Rate,z_population_age_65plus_pct,0.163 (0.107 to 0.219),<0.001
+DALY Rate,z_urban_population_pct,-0.028 (-0.077 to 0.021),0.259
+Death Rate,C(wb_region)[T.Europe & Central Asia],0.007 (-0.154 to 0.169),0.929
+Death Rate,C(wb_region)[T.Latin America & Caribbean],0.027 (-0.107 to 0.162),0.692
+Death Rate,"C(wb_region)[T.Middle East, North Africa, Afghanistan & Pakistan]",-0.249 (-0.410 to -0.089),0.002
+Death Rate,C(wb_region)[T.North America],0.025 (-0.369 to 0.418),0.902
+Death Rate,C(wb_region)[T.South Asia],-0.112 (-0.289 to 0.065),0.214
+Death Rate,C(wb_region)[T.Sub-Saharan Africa],0.112 (-0.044 to 0.267),0.159
+Death Rate,reg_binary,-0.038 (-0.129 to 0.054),0.419
+Death Rate,z_log_gdp_per_capita_ppp,-0.229 (-0.324 to -0.134),<0.001
+Death Rate,z_population_age_65plus_pct,0.455 (0.350 to 0.561),<0.001
+Death Rate,z_urban_population_pct,-0.045 (-0.105 to 0.015),0.139

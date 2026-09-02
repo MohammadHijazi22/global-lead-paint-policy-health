@@ -1,0 +1,7 @@
+outcome,outcome_label,analysis,n,coefficient_log_scale,percent_difference,percent_ci_low,percent_ci_high,p_value,notes
+daly_rate,DALY Rate,Quantile regression q=0.25,160,-0.038766777857734525,-3.802496313484205,-11.086000607923497,4.077645576494882,0.33215747428975756,Tests whether the association differs across the conditional outcome distribution.
+daly_rate,DALY Rate,Quantile regression q=0.50,160,-0.03108633263916616,-3.060812069600072,-10.311321189900347,4.775834378186805,0.43068623132651035,Tests whether the association differs across the conditional outcome distribution.
+daly_rate,DALY Rate,Quantile regression q=0.75,160,-0.01086205476468649,-1.0803275660945078,-9.161535694377488,7.719804261656882,0.8015079765236084,Tests whether the association differs across the conditional outcome distribution.
+death_rate,Death Rate,Quantile regression q=0.25,160,-0.04200522993212985,-4.113523423827559,-13.114559129768033,5.819988919949393,0.40111938610855297,Tests whether the association differs across the conditional outcome distribution.
+death_rate,Death Rate,Quantile regression q=0.50,160,-0.04671917895323041,-4.564463696452048,-13.552420030648548,5.357970608024987,0.352162511829612,Tests whether the association differs across the conditional outcome distribution.
+death_rate,Death Rate,Quantile regression q=0.75,160,-0.023798838010435475,-2.3517878911747725,-11.26155808163829,7.452566462935706,0.6237887054574586,Tests whether the association differs across the conditional outcome distribution.

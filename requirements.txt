@@ -1,0 +1,13 @@
+pandas>=1.5
+numpy>=1.23
+plotly>=5.18
+dash>=2.14
+matplotlib>=3.7
+seaborn>=0.12
+jupyterlab>=4.0
+ipykernel>=6.25
+pycountry>=23.12.11
+pycountry-convert>=0.7.2
+statsmodels>=0.14
+scipy>=1.10
+requests>=2.31

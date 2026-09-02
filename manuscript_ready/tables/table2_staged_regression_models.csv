@@ -1,0 +1,13 @@
+Outcome,Model,Adjustment set,N,"Regulation estimate, % (95% CI)",P value,Adjusted R²
+DALY Rate,M0: Unadjusted,Unadjusted regulation association,163,-19.9% (-26.8% to -12.5%),<0.001,0.135
+DALY Rate,M1: GDP-adjusted,Adjusted for log GDP per capita,160,-2.5% (-10.3% to 6.0%),0.555,0.382
+DALY Rate,M2: Primary adjusted,"Primary model: GDP, age structure, urbanization, and World Bank region",160,-3.3% (-10.0% to 3.9%),0.354,0.670
+DALY Rate,M3: Health-system sensitivity,Health-system sensitivity model replacing GDP with health spending,163,-5.4% (-12.1% to 1.9%),0.144,0.648
+DALY Rate,M4: Environmental sensitivity,Environmental-context sensitivity model adding PM2.5,160,-4.0% (-10.7% to 3.2%),0.267,0.674
+DALY Rate,M5: Industrial sensitivity,Industrial-context sensitivity model adding manufacturing share,155,-3.8% (-10.7% to 3.7%),0.310,0.681
+Death Rate,M0: Unadjusted,Unadjusted regulation association,163,7.0% (-5.0% to 20.7%),0.266,0.001
+Death Rate,M1: GDP-adjusted,Adjusted for log GDP per capita,160,5.8% (-7.6% to 21.1%),0.412,-0.009
+Death Rate,M2: Primary adjusted,"Primary model: GDP, age structure, urbanization, and World Bank region",160,-3.7% (-12.1% to 5.5%),0.419,0.727
+Death Rate,M3: Health-system sensitivity,Health-system sensitivity model replacing GDP with health spending,163,-5.1% (-13.6% to 4.2%),0.271,0.707
+Death Rate,M4: Environmental sensitivity,Environmental-context sensitivity model adding PM2.5,160,-2.7% (-11.4% to 6.8%),0.566,0.732
+Death Rate,M5: Industrial sensitivity,Industrial-context sensitivity model adding manufacturing share,155,-3.6% (-12.3% to 5.9%),0.447,0.732

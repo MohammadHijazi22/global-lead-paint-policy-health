@@ -1,0 +1,8 @@
+variable,available_n,base_n,coverage_pct,missing_n
+urban_population_pct,164,164,100.0,0
+population_age_65plus_pct,164,164,100.0,0
+health_expenditure_per_capita_usd,164,164,100.0,0
+pm25_mean_annual_ug_m3,163,164,99.4,1
+gdp_per_capita_ppp_2021,160,164,97.6,4
+manufacturing_value_added_pct_gdp,157,164,95.7,7
+uhc_service_coverage_index,0,164,0.0,164

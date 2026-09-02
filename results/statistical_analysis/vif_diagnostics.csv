@@ -1,0 +1,91 @@
+outcome,model,n,term,vif
+daly_rate,M0_unadjusted,163,reg_binary,0.9999999999999998
+daly_rate,M1_development,160,reg_binary,1.4767946365431468
+daly_rate,M1_development,160,z_log_gdp_per_capita_ppp,1.476794636543147
+daly_rate,M2_primary,160,C(wb_region)[T.Europe & Central Asia],3.2256889633656063
+daly_rate,M2_primary,160,C(wb_region)[T.Latin America & Caribbean],1.9394556317642424
+daly_rate,M2_primary,160,"C(wb_region)[T.Middle East, North Africa, Afghanistan & Pakistan]",2.135037424745238
+daly_rate,M2_primary,160,C(wb_region)[T.North America],1.1549453131648895
+daly_rate,M2_primary,160,C(wb_region)[T.South Asia],1.3225787444922699
+daly_rate,M2_primary,160,C(wb_region)[T.Sub-Saharan Africa],2.8991799234708826
+daly_rate,M2_primary,160,reg_binary,1.6689300462621832
+daly_rate,M2_primary,160,z_log_gdp_per_capita_ppp,4.293730796662052
+daly_rate,M2_primary,160,z_population_age_65plus_pct,3.9954797652296556
+daly_rate,M2_primary,160,z_urban_population_pct,2.3798114829389605
+daly_rate,M3_health_system,163,C(wb_region)[T.Europe & Central Asia],3.2084468744386325
+daly_rate,M3_health_system,163,C(wb_region)[T.Latin America & Caribbean],1.9709373694600087
+daly_rate,M3_health_system,163,"C(wb_region)[T.Middle East, North Africa, Afghanistan & Pakistan]",2.1417766230143105
+daly_rate,M3_health_system,163,C(wb_region)[T.North America],1.1771312737169233
+daly_rate,M3_health_system,163,C(wb_region)[T.South Asia],1.3317383522965125
+daly_rate,M3_health_system,163,C(wb_region)[T.Sub-Saharan Africa],2.846131100738288
+daly_rate,M3_health_system,163,reg_binary,1.6361510674472894
+daly_rate,M3_health_system,163,z_log_health_expenditure_per_capita,4.942678353101216
+daly_rate,M3_health_system,163,z_population_age_65plus_pct,4.409381684554211
+daly_rate,M3_health_system,163,z_urban_population_pct,2.4500655825230737
+daly_rate,M4_environment,160,C(wb_region)[T.Europe & Central Asia],3.260471731153521
+daly_rate,M4_environment,160,C(wb_region)[T.Latin America & Caribbean],1.9423600716783753
+daly_rate,M4_environment,160,"C(wb_region)[T.Middle East, North Africa, Afghanistan & Pakistan]",2.4397620447385626
+daly_rate,M4_environment,160,C(wb_region)[T.North America],1.157115510420333
+daly_rate,M4_environment,160,C(wb_region)[T.South Asia],1.3972728430511332
+daly_rate,M4_environment,160,C(wb_region)[T.Sub-Saharan Africa],3.0132999389037014
+daly_rate,M4_environment,160,reg_binary,1.6953420752026356
+daly_rate,M4_environment,160,z_log_gdp_per_capita_ppp,4.328180624755364
+daly_rate,M4_environment,160,z_population_age_65plus_pct,4.7248932912025
+daly_rate,M4_environment,160,z_urban_population_pct,2.396485788221429
+daly_rate,M4_environment,160,z_pm25_mean_annual_ug_m3,2.0423095480037725
+daly_rate,M5_industrial,155,C(wb_region)[T.Europe & Central Asia],3.2309570018629006
+daly_rate,M5_industrial,155,C(wb_region)[T.Latin America & Caribbean],2.019071384803072
+daly_rate,M5_industrial,155,"C(wb_region)[T.Middle East, North Africa, Afghanistan & Pakistan]",2.199891433614855
+daly_rate,M5_industrial,155,C(wb_region)[T.North America],1.1713896355882631
+daly_rate,M5_industrial,155,C(wb_region)[T.South Asia],1.3417026971310622
+daly_rate,M5_industrial,155,C(wb_region)[T.Sub-Saharan Africa],2.9782696146003107
+daly_rate,M5_industrial,155,reg_binary,1.6414304582974544
+daly_rate,M5_industrial,155,z_log_gdp_per_capita_ppp,4.4099365227999705
+daly_rate,M5_industrial,155,z_population_age_65plus_pct,3.91682829478318
+daly_rate,M5_industrial,155,z_urban_population_pct,2.454162556744902
+daly_rate,M5_industrial,155,z_manufacturing_value_added_pct_gdp,1.0603323063506311
+death_rate,M0_unadjusted,163,reg_binary,0.9999999999999998
+death_rate,M1_development,160,reg_binary,1.4767946365431468
+death_rate,M1_development,160,z_log_gdp_per_capita_ppp,1.476794636543147
+death_rate,M2_primary,160,C(wb_region)[T.Europe & Central Asia],3.2256889633656063
+death_rate,M2_primary,160,C(wb_region)[T.Latin America & Caribbean],1.9394556317642424
+death_rate,M2_primary,160,"C(wb_region)[T.Middle East, North Africa, Afghanistan & Pakistan]",2.135037424745238
+death_rate,M2_primary,160,C(wb_region)[T.North America],1.1549453131648895
+death_rate,M2_primary,160,C(wb_region)[T.South Asia],1.3225787444922699
+death_rate,M2_primary,160,C(wb_region)[T.Sub-Saharan Africa],2.8991799234708826
+death_rate,M2_primary,160,reg_binary,1.6689300462621832
+death_rate,M2_primary,160,z_log_gdp_per_capita_ppp,4.293730796662052
+death_rate,M2_primary,160,z_population_age_65plus_pct,3.9954797652296556
+death_rate,M2_primary,160,z_urban_population_pct,2.3798114829389605
+death_rate,M3_health_system,163,C(wb_region)[T.Europe & Central Asia],3.2084468744386325
+death_rate,M3_health_system,163,C(wb_region)[T.Latin America & Caribbean],1.9709373694600087
+death_rate,M3_health_system,163,"C(wb_region)[T.Middle East, North Africa, Afghanistan & Pakistan]",2.1417766230143105
+death_rate,M3_health_system,163,C(wb_region)[T.North America],1.1771312737169233
+death_rate,M3_health_system,163,C(wb_region)[T.South Asia],1.3317383522965125
+death_rate,M3_health_system,163,C(wb_region)[T.Sub-Saharan Africa],2.846131100738288
+death_rate,M3_health_system,163,reg_binary,1.6361510674472894
+death_rate,M3_health_system,163,z_log_health_expenditure_per_capita,4.942678353101216
+death_rate,M3_health_system,163,z_population_age_65plus_pct,4.409381684554211
+death_rate,M3_health_system,163,z_urban_population_pct,2.4500655825230737
+death_rate,M4_environment,160,C(wb_region)[T.Europe & Central Asia],3.260471731153521
+death_rate,M4_environment,160,C(wb_region)[T.Latin America & Caribbean],1.9423600716783753
+death_rate,M4_environment,160,"C(wb_region)[T.Middle East, North Africa, Afghanistan & Pakistan]",2.4397620447385626
+death_rate,M4_environment,160,C(wb_region)[T.North America],1.157115510420333
+death_rate,M4_environment,160,C(wb_region)[T.South Asia],1.3972728430511332
+death_rate,M4_environment,160,C(wb_region)[T.Sub-Saharan Africa],3.0132999389037014
+death_rate,M4_environment,160,reg_binary,1.6953420752026356
+death_rate,M4_environment,160,z_log_gdp_per_capita_ppp,4.328180624755364
+death_rate,M4_environment,160,z_population_age_65plus_pct,4.7248932912025
+death_rate,M4_environment,160,z_urban_population_pct,2.396485788221429
+death_rate,M4_environment,160,z_pm25_mean_annual_ug_m3,2.0423095480037725
+death_rate,M5_industrial,155,C(wb_region)[T.Europe & Central Asia],3.2309570018629006
+death_rate,M5_industrial,155,C(wb_region)[T.Latin America & Caribbean],2.019071384803072
+death_rate,M5_industrial,155,"C(wb_region)[T.Middle East, North Africa, Afghanistan & Pakistan]",2.199891433614855
+death_rate,M5_industrial,155,C(wb_region)[T.North America],1.1713896355882631
+death_rate,M5_industrial,155,C(wb_region)[T.South Asia],1.3417026971310622
+death_rate,M5_industrial,155,C(wb_region)[T.Sub-Saharan Africa],2.9782696146003107
+death_rate,M5_industrial,155,reg_binary,1.6414304582974544
+death_rate,M5_industrial,155,z_log_gdp_per_capita_ppp,4.4099365227999705
+death_rate,M5_industrial,155,z_population_age_65plus_pct,3.91682829478318
+death_rate,M5_industrial,155,z_urban_population_pct,2.454162556744902
+death_rate,M5_industrial,155,z_manufacturing_value_added_pct_gdp,1.0603323063506311

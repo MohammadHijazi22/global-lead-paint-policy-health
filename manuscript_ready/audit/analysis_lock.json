@@ -1,0 +1,21 @@
+{
+  "design": "Cross-sectional country-level ecological analysis",
+  "exposure": "Legally binding lead paint regulation status in 2023",
+  "outcomes": [
+    "Lead-attributable DALY rate",
+    "Lead-attributable death rate"
+  ],
+  "primary_model": "M2_primary",
+  "primary_covariance": "HC3",
+  "primary_adjustments": [
+    "log GDP per capita PPP",
+    "population aged 65+",
+    "urban population",
+    "World Bank region"
+  ],
+  "primary_sample_n": 160,
+  "missing_data": "Model-specific complete-case analysis",
+  "causal_claim": false,
+  "ihme_uncertainty_propagated": false,
+  "random_seed": 614604
+}

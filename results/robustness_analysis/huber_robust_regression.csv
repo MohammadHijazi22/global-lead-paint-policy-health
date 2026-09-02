@@ -1,0 +1,3 @@
+outcome,outcome_label,analysis,n,coefficient_log_scale,percent_difference,percent_ci_low,percent_ci_high,p_value,notes
+daly_rate,DALY Rate,Huber robust regression,160,-0.0360581296200464,-3.5415779060865016,-9.886651989968609,3.2502664512235935,0.29896558210936797,Outlier-resistant M-estimation; normal-approximation interval.
+death_rate,Death Rate,Huber robust regression,160,-0.03621396197340604,-3.556608077878809,-11.248374269470196,4.801774264787273,0.39310764609656634,Outlier-resistant M-estimation; normal-approximation interval.

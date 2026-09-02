@@ -1,0 +1,28 @@
+outcome,outcome_label,analysis,n,coefficient_log_scale,percent_difference,percent_ci_low,percent_ci_high,p_value,notes,excluded_country
+daly_rate,DALY Rate,Leave one influential country out,159,-0.0340840269179076,-3.350970997481073,-10.056324916811398,3.8542710033835137,0.35284564903091975,Excluded country: Canada,Canada
+daly_rate,DALY Rate,Leave one influential country out,159,-0.03763748218820581,-3.693799525297281,-10.420175262428955,3.537646752992707,0.3082693218662146,Excluded country: Comoros,Comoros
+daly_rate,DALY Rate,Leave one influential country out,159,-0.042023404259817265,-4.1152660802378005,-10.659286723152462,2.9080904063721214,0.24395536702990217,Excluded country: Guyana,Guyana
+daly_rate,DALY Rate,Leave one influential country out,159,-0.029077383543975377,-2.8658704273642366,-9.603794753349714,4.374283213434094,0.4279281934499234,Excluded country: Haiti,Haiti
+daly_rate,DALY Rate,Leave one influential country out,159,-0.0418875700741731,-4.102240770868981,-10.93015387559133,3.2490862544356736,0.26634867164914067,Excluded country: Japan,Japan
+daly_rate,DALY Rate,Leave one influential country out,159,-0.024314022909916994,-2.4020818190661153,-8.96399960993054,4.6328220971725065,0.493544873002964,Excluded country: Kyrgyzstan,Kyrgyzstan
+daly_rate,DALY Rate,Leave one influential country out,159,-0.04461702550291047,-4.36363253953057,-10.748886206096975,2.478438556570084,0.20567841485278815,Excluded country: Maldives,Maldives
+daly_rate,DALY Rate,Leave one influential country out,159,-0.02736073551645879,-2.698982112163606,-9.408323285426668,4.507261873938129,0.4529114920146593,Excluded country: Palau,Palau
+daly_rate,DALY Rate,Leave one influential country out,159,-0.04025692936722666,-3.9457384160879627,-10.498185585813024,3.0864148265592473,0.2641080334251035,Excluded country: Tajikistan,Tajikistan
+daly_rate,DALY Rate,Leave one influential country out,159,-0.03107874895101914,-3.0600769102419823,-9.804661368696388,4.18885090128942,0.3982876902956727,Excluded country: Tuvalu,Tuvalu
+daly_rate,DALY Rate,Leave one influential country out,159,-0.03408402691790552,-3.3509709974808732,-10.056324916811166,3.8542710033836913,0.35284564903094606,Excluded country: United States,United States
+daly_rate,DALY Rate,All Cook's D flagged countries removed,149,-0.04093603280475269,-4.010947051108438,-10.263119938285648,2.676828965844069,0.23355720903437716,Removed 11 countries using Cook's D > 4/n.,
+death_rate,Death Rate,Leave one influential country out,159,-0.03770099756220677,-3.699916255383795,-12.112719118148107,5.518182337292554,0.418901626912886,Excluded country: Canada,Canada
+death_rate,Death Rate,Leave one influential country out,159,-0.04344369458191809,-4.251353575108697,-12.688661538971669,5.001291399179775,0.35597967573569933,Excluded country: Egypt,Egypt
+death_rate,Death Rate,Leave one influential country out,159,-0.033020618304662755,-3.248138921010668,-11.632519273909981,5.931758440232304,0.4752386834665342,Excluded country: Eswatini,Eswatini
+death_rate,Death Rate,Leave one influential country out,159,-0.03163507848819927,-3.1139924539934416,-11.563346412468277,6.142623871605357,0.49681973825215986,Excluded country: Gabon,Gabon
+death_rate,Death Rate,Leave one influential country out,159,-0.04689662186243683,-4.581396553303307,-12.940813048734956,4.580690476867133,0.3160963253054522,Excluded country: Guyana,Guyana
+death_rate,Death Rate,Leave one influential country out,159,-0.056337330828417714,-5.477976981822752,-13.477055228046119,3.260619006865917,0.21175385892890497,Excluded country: Japan,Japan
+death_rate,Death Rate,Leave one influential country out,159,-0.025973922955985787,-2.5639502280951576,-10.834929496177882,6.474247611862327,0.5660425571777137,Excluded country: Kyrgyzstan,Kyrgyzstan
+death_rate,Death Rate,Leave one influential country out,159,-0.04643658604138835,-4.537490479314332,-12.76716084028362,4.468578711529236,0.3127091621965402,Excluded country: Maldives,Maldives
+death_rate,Death Rate,Leave one influential country out,159,-0.029707209695388703,-2.9270287807769746,-11.354245985561029,6.301332151715,0.5214314850973212,Excluded country: Palau,Palau
+death_rate,Death Rate,Leave one influential country out,159,-0.03273053727691086,-3.2200689706287644,-11.417529864241772,5.735988573081352,0.46856247561864495,Excluded country: Qatar,Qatar
+death_rate,Death Rate,Leave one influential country out,159,-0.044257345001586915,-4.329227815954429,-12.503137541970622,4.608284150554809,0.331420700478805,Excluded country: Tajikistan,Tajikistan
+death_rate,Death Rate,Leave one influential country out,159,-0.0331192138805657,-3.2576777562222214,-11.687047851188137,5.97626605606405,0.4764405823095792,Excluded country: Tuvalu,Tuvalu
+death_rate,Death Rate,Leave one influential country out,159,-0.03271450411099161,-3.2185172694976116,-11.518315881988128,5.85982277441528,0.4745244794550252,Excluded country: United Arab Emirates,United Arab Emirates
+death_rate,Death Rate,Leave one influential country out,159,-0.03770099756220478,-3.699916255383595,-12.112719118147918,5.518182337292754,0.4189016269129102,Excluded country: United States,United States
+death_rate,Death Rate,All Cook's D flagged countries removed,146,-0.031528371547696554,-3.1036534929410498,-10.356495049037273,4.73599812448211,0.42704260352256806,Removed 14 countries using Cook's D > 4/n.,

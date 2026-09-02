@@ -1,0 +1,17 @@
+check,passed,detail
+one row per ISO3,True,"rows=164, unique_iso=164"
+regulation binary valid,True,"[np.int64(0), np.int64(1)]"
+positive DALY values,True,nonpositive=0
+positive death values,True,nonpositive=0
+complete health outcomes,True,complete=163
+primary covariates available,True,required columns
+no impossible urban percentages,True,expected range 0-100
+no impossible age percentages,True,expected range 0-100
+12 staged model rows,True,rows=12
+all six models per outcome,True,"{'DALY Rate': 6, 'Death Rate': 6}"
+primary n=160,True,"[{'outcome_label': 'DALY Rate', 'n': 160}, {'outcome_label': 'Death Rate', 'n': 160}]"
+confidence intervals ordered,True,low <= estimate <= high
+primary intervals include zero,True,"[{'outcome_label': 'DALY Rate', 'percent_ci_low': -10.0461, 'percent_ci_high': 3.8592}, {'outcome_label': 'Death Rate', 'percent_ci_low': -12.0943, 'percent_ci_high': 5.5158}]"
+sample-size file consistent,True,"[np.int64(155), np.int64(160), np.int64(163)]"
+bootstrap rows present,True,rows=2
+bootstrap 2000 successful,True,"[2000.0, 2000.0]"

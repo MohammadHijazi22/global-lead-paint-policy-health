@@ -1,0 +1,3 @@
+outcome,outcome_label,analysis,n,coefficient_log_scale,percent_difference,percent_ci_low,percent_ci_high,p_value,notes
+daly_rate,DALY Rate,"Primary model, region-clustered SE",160,-0.034003598560146564,-3.34319736219304,-8.122542073506779,1.684762584947519,0.18876833647358493,Clustered across 7 World Bank regions; few-cluster inference is exploratory.
+death_rate,Death Rate,"Primary model, region-clustered SE",160,-0.03760724116777375,-3.690887083483607,-9.751071666496369,2.7762368156888817,0.2567378043893789,Clustered across 7 World Bank regions; few-cluster inference is exploratory.
