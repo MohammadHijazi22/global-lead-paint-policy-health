@@ -11,7 +11,7 @@ import statsmodels.api as sm
 PROJECT_ROOT = Path(__file__).resolve().parent
 RAW_DIR = PROJECT_ROOT / "data" / "raw"
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-GBD_PATH = RAW_DIR / "IHME-GBD_2023_DATA-e843da6d-1.csv"
+GBD_PATH = RAW_DIR / "IHME-GBD_2023_DATA-32e3c624-1.csv"
 REGULATION_PATH = RAW_DIR / "legal-controls-lead-paint(in).csv"
 OUTPUT_PATH = PROCESSED_DIR / "lead_policy_merged.csv"
 

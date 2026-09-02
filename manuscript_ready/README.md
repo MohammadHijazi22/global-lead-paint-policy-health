@@ -1,11 +1,11 @@
 # Frozen manuscript analysis package
 
-Created: 2026-09-02T18:24:04.049813+00:00
+Created: 2026-09-02T21:54:01.256930+00:00
 
 ## Primary findings
 
-- DALY rate: -3.3% (-10.0% to 3.9%); p=0.354; n=160.
-- Death rate: -3.7% (-12.1% to 5.5%); p=0.419; n=160.
+- DALY rate: 0.8% (-18.5% to 24.7%); p=0.940; n=160.
+- Death rate: 0.5% (-18.9% to 24.4%); p=0.966; n=160.
 
 ## Interpretation lock
 
@@ -18,6 +18,18 @@ include zero. Results are cross-sectional country-level associations and must no
 - `figures/`: publication-ready 300-dpi figures.
 - `supplement/`: diagnostics and complete sensitivity outputs.
 - `audit/`: validation checks, file hashes, and software versions.
+
+## IHME data
+
+The IHME source file is not included in this repository.
+
+Authorized users should obtain the GBD 2023 extract from the IHME GBD Results Tool using the query configuration documented in:
+
+``supplementary/ihme_verification/ihme_query_configuration.csv``
+
+Place the downloaded file at:
+
+``data/raw/IHME-GBD_2023_DATA.csv``
 
 ## Validation
 
