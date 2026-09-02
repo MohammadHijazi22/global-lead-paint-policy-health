@@ -1,0 +1,3 @@
+rei_id,rei_name,cause_id,cause_name,measure_id,measure_name,metric_id,metric_name,age_id,age_name,sex_id,sex_name,year
+91,Lead exposure,294,All causes,1,Deaths,3,Rate,22,All ages,3,Both,2023
+91,Lead exposure,294,All causes,2,DALYs (Disability-Adjusted Life Years),3,Rate,22,All ages,3,Both,2023
