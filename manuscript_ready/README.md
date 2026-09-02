@@ -19,18 +19,6 @@ include zero. Results are cross-sectional country-level associations and must no
 - `supplement/`: diagnostics and complete sensitivity outputs.
 - `audit/`: validation checks, file hashes, and software versions.
 
-## IHME data
-
-The IHME source file is not included in this repository.
-
-Authorized users should obtain the GBD 2023 extract from the IHME GBD Results Tool using the query configuration documented in:
-
-``supplementary/ihme_verification/ihme_query_configuration.csv``
-
-Place the downloaded file at:
-
-``data/raw/IHME-GBD_2023_DATA.csv``
-
 ## Validation
 
 Passed 16 of 16 automated checks. Review
