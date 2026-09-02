@@ -65,6 +65,18 @@ The health outcomes represent lead-attributable burden and are not necessarily a
 └── assets/
 ```
 
+## IHME data
+
+The IHME source file is not included in this repository.
+
+Authorized users should obtain the GBD 2023 extract from the IHME GBD Results Tool using the query configuration documented in:
+
+``supplementary/ihme_verification/ihme_query_configuration.csv``
+
+Place the downloaded file at:
+
+``data/raw/IHME-GBD_2023_DATA.csv``
+
 ## Analytical workflow
 
 ### 1. Build the base dataset
@@ -291,8 +303,6 @@ Raw source data should be retained unchanged. Derived datasets and result files 
 - small processed outputs where licensing permits;
 - manuscript tables and figures;
 - provenance and validation records.
-
-## Citation and data availability text
 
 ## Citation and License
 
